@@ -1,2 +1,2 @@
-# 1st-C-Login-Page-project
-This registration page, developed using C++, offers a user-friendly interface for new users to create accounts securely. It includes essential fields such as username, password, and email, ensuring proper validation to maintain data accuracy. 
+First Semester C++ Projects
+This repository contains my initial projects developed during the first semester of my software engineering studies. These projects focus on foundational C++ programming skills, covering concepts like file handling, user input/output, and basic logic implementation. Each project is a small application designed to practice and demonstrate key C++ skills, preparing me for more advanced programming challenges.
